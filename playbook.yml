@@ -1,0 +1,5 @@
+- name: Install pocteo tools on k8s
+  hosts: localhost
+  roles:
+    - nexus
+    - portus
