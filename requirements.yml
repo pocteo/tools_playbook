@@ -1,4 +1,2 @@
 - name: nexus
   src: https://github.com/pocteo/nexus_role
-- name: portus
-  src: https://github.com/pocteo/portus_role
